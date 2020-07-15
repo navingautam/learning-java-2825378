@@ -29,6 +29,7 @@ Temporary Items
 .idea
 
 # out folder
+out/
 /out/
 /LearningJava.iml
 /out/production/learning-java-2825378/
