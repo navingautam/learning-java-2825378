@@ -24,3 +24,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#output files
+out/
+
+# idea folder
+.idea
+.idea/*.xml
+
+# .iml and .xml
+*.iml
